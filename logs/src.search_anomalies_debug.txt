@@ -1,0 +1,11 @@
+2025-02-11 20:14:17,757 - src.search_anomalies_debug - DEBUG - Автоэнкодер инициализирован
+2025-02-11 20:14:17,757 - src.search_anomalies_debug - DEBUG - Выявление аномалий
+2025-02-11 20:14:17,772 - src.search_anomalies_debug - INFO - 
+Аномалии не обнаружены
+2025-02-11 20:14:17,782 - src.search_anomalies_debug - DEBUG - Автоэнкодер инициализирован
+2025-02-11 20:14:17,782 - src.search_anomalies_debug - DEBUG - Обработка данных
+2025-02-11 20:14:17,782 - src.search_anomalies_debug - INFO - Нет данных для обработки. Пропуск итерации
+
+2025-02-11 20:14:17,794 - src.search_anomalies_debug - DEBUG - Автоэнкодер инициализирован
+2025-02-11 20:14:17,833 - src.search_anomalies_debug - DEBUG - Сохранение аномалий -> data_traffic/anomalies_in_traffic.csv
+2025-02-11 20:14:17,867 - src.search_anomalies_debug - DEBUG - Автоэнкодер инициализирован

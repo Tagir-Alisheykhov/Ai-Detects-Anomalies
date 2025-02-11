@@ -1,0 +1,8 @@
+2025-02-11 20:14:03,826 - src.pack_transform_debug - DEBUG - Вывод данных
+2025-02-11 20:14:13,580 - src.pack_transform_debug - INFO - Данные преобразованы.
+2025-02-11 20:14:13,599 - src.pack_transform_debug - DEBUG - Вывод данных
+2025-02-11 20:14:17,719 - src.pack_transform_debug - INFO - Данные преобразованы.
+2025-02-11 20:14:17,719 - src.pack_transform_debug - ERROR - Возникла ошибка при обработке пакета Already tz-aware, use tz_convert to convert.
+2025-02-11 20:14:17,736 - src.pack_transform_debug - DEBUG - Вывод данных
+2025-02-11 20:14:17,743 - src.pack_transform_debug - ERROR - Возникла ошибка при обработке пакета.
+'proto'

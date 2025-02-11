@@ -1,0 +1,77 @@
+2025-02-09 11:36:15,956 - __main__ANOMALIES - INFO - 
+Loading . . .
+Please wait.
+
+2025-02-09 11:36:38,722 - __main__ANOMALIES - WARNING - 
+>>> [ ANOMALIES DETECTED ] 
+           src_ip        dst_ip  proto  ttl  length flags  sport    dport                 timestamp  avg_pack_size  uniq_ports  duration
+4  185.137.235.80  192.168.1.11      6   56     117    DF  443.0  60413.0 2025-02-09 11:36:30+03:00           86.5           2       0.0
+<<<
+
+
+2025-02-09 11:36:39,567 - __main__ANOMALIES - WARNING - 
+>>> [ ANOMALIES DETECTED ] 
+          src_ip          dst_ip  proto  ttl  length flags    sport  dport                 timestamp  avg_pack_size  uniq_ports  duration
+14  192.168.1.11  104.16.145.246      6  128     676    DF  62606.0  443.0 2025-02-09 11:36:39+03:00        191.625           2       0.0
+<<<
+
+
+2025-02-09 11:36:41,966 - __main__ANOMALIES - WARNING - 
+>>> [ ANOMALIES DETECTED ] 
+           src_ip        dst_ip  proto  ttl  length flags  sport    dport                 timestamp  avg_pack_size  uniq_ports  duration
+2  185.137.235.80  192.168.1.11      6   56      56    DF  443.0  60413.0 2025-02-09 11:36:39+03:00           70.5           1       0.0
+<<<
+
+
+2025-02-09 11:36:45,586 - __main__ANOMALIES - WARNING - 
+>>> [ ANOMALIES DETECTED ] 
+           src_ip        dst_ip  proto  ttl  length flags  sport    dport                 timestamp  avg_pack_size  uniq_ports  duration
+1  149.154.167.51  192.168.1.11      6   54     159    DF  443.0  60276.0 2025-02-09 11:36:42+03:00          159.0           1       0.0
+<<<
+
+
+2025-02-09 11:36:48,542 - __main__ANOMALIES - WARNING - 
+>>> [ ANOMALIES DETECTED ] 
+         src_ip        dst_ip  proto  ttl  length flags  sport    dport                 timestamp  avg_pack_size  uniq_ports  duration
+1  34.237.73.95  192.168.1.11      6  118     317    DF  443.0  60404.0 2025-02-09 11:36:46+03:00          317.0           1       0.0
+<<<
+
+
+2025-02-09 11:36:56,732 - __main__ANOMALIES - WARNING - 
+>>> [ ANOMALIES DETECTED ] 
+            src_ip        dst_ip  proto  ttl  length flags  sport    dport                 timestamp  avg_pack_size  uniq_ports  duration
+1  213.180.204.179  192.168.1.11      6   59     136    DF  443.0  60659.0 2025-02-09 11:36:49+03:00          136.0           1       0.0
+<<<
+
+
+2025-02-09 11:36:59,267 - __main__ANOMALIES - WARNING - 
+>>> [ ANOMALIES DETECTED ] 
+            src_ip        dst_ip  proto  ttl  length flags  sport    dport                 timestamp  avg_pack_size  uniq_ports  duration
+12  91.105.192.100  192.168.1.11      6   55      56    DF  443.0  62590.0 2025-02-09 11:36:57+03:00           56.0           1       0.0
+<<<
+
+
+2025-02-09 11:36:59,543 - __main__ANOMALIES - WARNING - 
+>>> [ ANOMALIES DETECTED ] 
+         src_ip        dst_ip  proto  ttl  length flags  sport  dport                 timestamp  avg_pack_size  uniq_ports  duration
+9  104.18.94.41  192.168.1.11     17   58     129    DF    0.0    0.0 2025-02-09 11:36:59+03:00         1056.5           1       0.0
+<<<
+
+
+2025-02-09 11:37:01,462 - __main__ANOMALIES - WARNING - 
+>>> [ ANOMALIES DETECTED ] 
+         src_ip        dst_ip  proto  ttl  length flags    sport  dport                 timestamp  avg_pack_size  uniq_ports  duration
+3  192.168.1.11  2.19.204.130      6  128    1438    DF  62610.0  443.0 2025-02-09 11:37:01+03:00     458.857143           1       0.0
+<<<
+
+
+2025-02-09 11:37:02,019 - __main__ANOMALIES - WARNING - 
+>>> [ ANOMALIES DETECTED ] 
+         src_ip        dst_ip  proto  ttl  length flags    sport  dport                 timestamp  avg_pack_size  uniq_ports  duration
+6  192.168.1.11  2.19.204.130      6  128    1438    DF  62610.0  443.0 2025-02-09 11:37:01+03:00          501.0           2       0.0
+<<<
+
+
+2025-02-09 11:37:05,230 - __main__ANOMALIES - INFO - 
+Программа завершена пользователем.
+

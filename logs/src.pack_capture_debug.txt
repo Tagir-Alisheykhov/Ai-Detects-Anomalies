@@ -1,0 +1,5 @@
+2025-02-11 20:14:01,166 - src.pack_capture_debug - DEBUG - Захват сетевого трафика
+2025-02-11 20:14:01,171 - src.pack_capture_debug - DEBUG - Запись пакетов в файл (по количеству)
+2025-02-11 20:14:01,397 - src.pack_capture_debug - DEBUG - Вывод данных
+2025-02-11 20:14:01,464 - src.pack_capture_debug - DEBUG - Захват сетевого трафика
+2025-02-11 20:14:01,470 - src.pack_capture_debug - DEBUG - Запись пакетов в файл (по времени)
